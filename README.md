@@ -17,6 +17,6 @@ CPU max MHz - 2200
 CPU min MHz - 1200
 Memory - 8 GB
 
-Once the classification is done one can localize the abnormality in particular image using the muracam.ipynb file.
+Once the classification is done one can localize the abnormality in particular image using the muracam.ipynb file. We have also included the results screenshots for individual arm part and model in folders of submitted zip file.
 We have also added one requirements.txt file which summarises the required libraries for running this project.
 
